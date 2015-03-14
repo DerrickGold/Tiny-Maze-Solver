@@ -5,7 +5,8 @@ Based on an assignment, it meets the criteria of having:
       -a class implementation
       -input file prompt
       -unsolvable maze output
-
+      -parses maze files in ./maze for input
+      
 Cloc output:
 http://cloc.sourceforge.net v 1.62  T=0.01 s (105.0 files/s, 4830.3 lines/s)
 -------------------------------------------------------------------------------
